@@ -24,9 +24,9 @@ Here are some screenshots of the app in action:
 
 ### Home Screen
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="Preview/1.png" alt="1" width="300">
-  <img src="Preview/2.png" alt="2" width="300">
-  <img src="Preview/3.png" alt="3" width="300">
+  <img src="Preview/1.png" alt="1" width="250">
+  <img src="Preview/2.png" alt="2" width="250">
+  <img src="Preview/3.png" alt="3" width="250">
 </div>
 
 ---
